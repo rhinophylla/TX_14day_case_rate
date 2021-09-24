@@ -4,4 +4,4 @@ https://public.tableau.com/profile/amanda.wright#!/vizhome/Texascounties14-dayCO
 
 Users can select various Texas counties of interest to display within the viz.
 
-This project was last updated on 11/11/20.  I anticipate updating the numbers every two weeks going forward.  
+This project was last updated on 11/11/20.  
